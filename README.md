@@ -52,3 +52,5 @@ This project is licensed under **AGPL-3.0**.
 > **English**：Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.  
 > **日本語**：MINECRAFT の公式製品ではありません。MOJANG または MICROSOFT による承認を受けておらず、関連もありません。
 ---
+
+© 2026 Never155 & Molo4981 & Never Studio
