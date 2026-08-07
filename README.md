@@ -1,3 +1,4 @@
+# Copyright 2026 N-155 Studio
 # Neore UI 3 Expressive
 
 基岩版 Minecraft UI 资源包库 | Bedrock Minecraft UI Resource Pack Library | Bedrock Minecraft UI リソースパックライブラリ
@@ -53,4 +54,4 @@ This project is licensed under **AGPL-3.0**.
 > **日本語**：MINECRAFT の公式製品ではありません。MOJANG または MICROSOFT による承認を受けておらず、関連もありません。
 ---
 
-2026 Never155 & Molo4981 & N-155 Studio
+By Never155,molo4981,N-155 Studio
