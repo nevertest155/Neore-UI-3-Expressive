@@ -53,4 +53,4 @@ This project is licensed under **AGPL-3.0**.
 > **日本語**：MINECRAFT の公式製品ではありません。MOJANG または MICROSOFT による承認を受けておらず、関連もありません。
 ---
 
-© 2026 Never155 & Molo4981 & Never Studio
+2026 Never155 & Molo4981 & N-155 Studio
